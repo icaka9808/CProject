@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1527689715 source:d:\œ» \kursovaii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
